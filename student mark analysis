@@ -11,5 +11,5 @@ I	       50
 J	       60
 
 solution
-MEAN	MEDIAN	MODE	variance	stand deviation
-33	   35	     30	   295.6	     17.193
+MEAN	MEDIAN	MODE	populationvariance  samplevariance	standarddeviation
+33	   30	     30	   	 201                 223.33          14.18
